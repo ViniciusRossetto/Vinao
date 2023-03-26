@@ -26,7 +26,7 @@ Ensino Médio	Completo
 
 ## EXPERIENCIA PROFISSIONAL
 
-# Empresa: 	Connect Parts 
+## Empresa: 	Connect Parts 
 Cargo: 	Assistente Comercial
 Responsabilidade : * Conferir dados de Notas Fiscais referente aos pedidos de reposição ao estoque.
                                      *Realizar Shopping de Preços competindo com preços de concorrentes.
@@ -35,12 +35,12 @@ Responsabilidade : * Conferir dados de Notas Fiscais referente aos pedidos de re
 Período: 	11/2021 até 11/06/2022
 
 
-# Empresa: 	Connect Parts 
+## Empresa: 	Connect Parts 
 Cargo: 	auxiliar de vendas
 Responsabilidade : * Reclame Aqui, dentre outras plataformas de reclamação.
 Período: 	11/2019 até 11/2021    
 
-# Empresa:       Connect Parts
+## Empresa:       Connect Parts
 Cargo: 	aprendiz (16 anos de idade) 
 Responsabilidade: * Responder tickets de atendimento ao cliente.
                                      * Ofertar Similares em casos de falta de estoque.
